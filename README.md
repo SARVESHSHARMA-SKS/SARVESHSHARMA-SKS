@@ -12,7 +12,7 @@
 ### Connect with me:
 
 <p>
-    <a href="https://www.linkedin.com/in/sahil-raj-5123b7162/">
+    <a href="https://www.linkedin.com/in/sarveshkumarsharma-sks/">
     <img alt="linkedin" width="7%" style="padding:5px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png"/>
   </a>
   
