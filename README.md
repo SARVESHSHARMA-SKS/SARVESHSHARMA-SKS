@@ -49,12 +49,15 @@
 <br />
 <br />
 ### Find Me around the Internet
-<ul>
- <li> <h1>Sharing Updates in <a href="www.linkedin.com/in/sarveshkumarsharma-sks
-">Linkedin</a></h1> </li>
+<li>
+ <ul> 
+  <h1>Sharing Updates in <a href="www.linkedin.com/in/sarveshkumarsharma-sks
+">Linkedin</a>:earth_asia:
+  </h1>
+ </ul>
  
 
- </ul>
+ </li>
 
 
 
