@@ -49,17 +49,17 @@
 <br />
 <br />
 <br/>
-### Find Me around the Internet
+<h1>Find me over the Internet </h1>
 <br/>
-<li>
- <ul> 
+<ul>
+ <li> 
   <h1>Sharing Updates in <a href="www.linkedin.com/in/sarveshkumarsharma-sks
 ">Linkedin</a>:earth_asia:
   </h1>
- </ul>
+ </li>
  
 
- </li>
+ </ul>
 
 
 
