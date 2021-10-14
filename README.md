@@ -48,7 +48,9 @@
 <img align="left" alt="Terminal" width="65px" style="padding:10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
+<br/>
 ### Find Me around the Internet
+<br/>
 <li>
  <ul> 
   <h1>Sharing Updates in <a href="www.linkedin.com/in/sarveshkumarsharma-sks
