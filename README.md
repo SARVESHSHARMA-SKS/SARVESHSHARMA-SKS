@@ -5,6 +5,18 @@
 ### An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations      every now and then. 
 
 
+**Who I am**
+### My Name is Sarvesh Kumar Sharma who has done his B.tech from Haldia Institute Of Technology having stream as Information Technology.I have passed out from college in September 2021 having DGPA of 8.77. ###
+I 
+***👯 Other interests***
+
+    I like playing Chess🃏 ,reading books,Watching Ted Talk & solving puzzles🧩.
+
+
+***💬 Want to know more about me?***
+
+    You can find my work on my Portfolio.
+
 - 🔭 I’m currently working on MERN 
 - 👯 I’m looking to collaborate on exciting projects with intellectual people.
 
