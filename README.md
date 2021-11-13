@@ -2,7 +2,8 @@
 
  <img align="right" alt="GIF" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="400" height="280" style=" padding:2%" />
 
-### I have done my B.tech from Haldia Institute Of Technology with Information Technology as stream.I have aggregate DGPA OF 8.77 in my B.tech.I have also prepared for gate exam in my final year so I have good knowledge of Computer Science Core Subjects like Operating System,DBMS,Digital Electronics.An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations  every now and then. 
+### I have done my B.tech from Haldia Institute Of Technology with Information Technology as stream.I have aggregate DGPA OF 8.77 in my B.tech.I have also prepared for gate exam in my final year so I have good knowledge of Computer Science Core Subjects like Operating System,DBMS,Digital Electronics.
+### An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations  every now and then. 
 
 I 
 ***👯 Other interests***
