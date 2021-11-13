@@ -1,7 +1,7 @@
 ### Hello, I am SARVESH SHARMA 👋
 
  <img align="right" alt="GIF" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="400" height="280" style=" padding:2%" />
-### I have done my B.tech from Haldia Institute Of Technology having stream as Information Technology.I have passed out from college in September 2021 having DGPA of 8.77. 
+### I have done my B.tech from Haldia Institute Of Technology having stream as Information Technology .I have passed out from college in September 2021 having DGPA of 8.77. 
 
 ### An aspiring Full Stack Developer,who likes to adapt to new technologies that comes up his way.I would love to work  in a competitive environment where we talk about new innovations      every now and then. 
 
