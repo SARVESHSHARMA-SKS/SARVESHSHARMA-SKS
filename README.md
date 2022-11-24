@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif" width="400" height="280" style=" padding:2%" />
 
-### I have worked on Startup where I worked on React,Material Ui,Node.js ,Express,My Sql.I have 6 Months of Work Experience in Fintech Startup with Java Backend Developer. I am also proficient in Elastic Search, Kafka, Kibana, Logstash,Junit ,Jira, Git,Microservice,Rest Api,Soap Api,Mysql. I have graduated with B. Tech from Haldia Institute Of Technology in Information Technology with an aggregate DGPA OF 8.77. I have also prepared for the GATE exam in my final year so I have good knowledge of Computer Science Core Subjects like Operating System, DBMS, Digital Electronics.
+### I have worked on 3 Month  Startup where I worked on React,Material Ui,Node.js ,Express,My Sql.I have 6 Months of Work Experience in Fintech Startup with Java Backend Developer. I am also proficient in Elastic Search, Kafka, Kibana, Logstash,Junit ,Jira, Git,Microservice,Rest Api,Soap Api,Mysql. I have graduated with B. Tech from Haldia Institute Of Technology in Information Technology with an aggregate DGPA OF 8.77. I have also prepared for the GATE exam in my final year so I have good knowledge of Computer Science Core Subjects like Operating System, DBMS, Digital Electronics.
 ### I am an aspiring Full Stack Developer, likes to adapt to new technologies that come up in the way. I would love to work in a competitive environment where we talk about new innovations every now and then.
 
 I 
